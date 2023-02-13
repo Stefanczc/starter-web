@@ -8,6 +8,8 @@ Some random introduction text.
 
 ## Purpose
 
+Some random purpose text.
+
 ## Deployment
 
 ## How to contribute
