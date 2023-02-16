@@ -12,7 +12,13 @@ Some random purpose text.
 
 ## Deployment
 
+Some deployment changes text.
+
 ## How to contribute
+
+Some contribution changes text.
+
+
 
 
 
