@@ -18,6 +18,8 @@ Some deployment changes text.
 
 Some contribution changes text.
 
+Another change.
+
 
 <!-- 2023 Git Trainning -->
 
