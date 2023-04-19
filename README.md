@@ -23,7 +23,7 @@ Some contribution changes text.
 Another change.
 
 
-<!-- 2023 Git Trainning -->
+<!-- 2023 Git Trainning for Stefan-->
 
 
 
