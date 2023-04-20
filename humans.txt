@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+a new line
+
 # TEAM
 
     <Stefan> -- <QA> -- <NO-twitter>
@@ -8,6 +10,7 @@
 # THANKS
 
     <To Alexandra>
+Please leave a review.
 
 # TECHNOLOGY COLOPHON
 
